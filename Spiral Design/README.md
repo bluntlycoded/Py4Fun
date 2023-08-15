@@ -47,7 +47,7 @@ To get started with creating your own spiral designs, follow these simple steps:
 
 **Color Spiral** is a Python script that generates a visually appealing spiral pattern with vibrant colors. Take a look at the screenshot below:
 
-![Color Spiral Screenshot](Color_Spiral_Screenshot.png)
+![Color Spiral Screenshot](Color_spiral_Screenshot.png)
 
 To run the **Color Spiral** script, execute the following command:
 
