@@ -48,4 +48,3 @@ This repository is licensed under the [MIT License](LICENSE), which means you ar
 Let's embrace the fun side of Python together! Happy coding and exploring!
 
 ---
-*Note: This README is a template and can be customized for your Py4Fun repository as needed.*
